@@ -19,6 +19,9 @@ constraints:
 
 The program prints the board, with some “.” replaced by “x” to represent the largest square found.
 
+## USAGE
+  ./bsq map_file
+
 ## Map file Example
 ![image](https://user-images.githubusercontent.com/91698189/160253970-6f1cea03-37b3-49e2-98cf-13df5edf54ac.png)
 ![image](https://user-images.githubusercontent.com/91698189/160254001-f4f4558d-9d9f-492a-b417-afe10a352edf.png)
